@@ -1,0 +1,1 @@
+"use strict";(globalThis.rspackChunknotion_next||=[]).push([[1443],{324994(n,t,s){function u(n){return t=>({getRecordModel:n})}s.d(t,{z:()=>u})}}]);

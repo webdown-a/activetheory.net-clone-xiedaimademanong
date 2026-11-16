@@ -1,0 +1,535 @@
+Serving HTTP on 127.0.0.1 port 8001 (http://127.0.0.1:8001/) ...
+127.0.0.1 - - [16/Nov/2026 02:30:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:30:36] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:30:36] "HEAD /assets/js/app.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:30:36] "HEAD /assets/js/modules.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:30:36] "HEAD /assets/data/uil.1780406240914.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:30:36] "HEAD /assets/video/reel.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/js/app.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/meta/manifest.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/js/hydra/hydra-thread.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/js/app.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/js/hydra/hydra-thread.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/data/uil.1780406240914.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/shaders/compiled.vs HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/js/modules.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/meta/favicon-32x32.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/fonts/NBArchitektStd-Regular-export/NBArchitektStd-Regular.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/js/app.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:16] "GET /assets/js/modules.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/damaged_road_normal.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/fonts/NBArchitektStd-Regular.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/fonts/NBArchitektStd-Regular.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/ui/arrow.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/ui/globe.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/fonts/NBArchitektStd-Light.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/ui/star.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/fonts/NBArchitektStd-Light.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/fonts/NBArchitektStd-Bold.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/ui/in.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/ui/tw.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/ui/ig.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/fonts/NBArchitektStd-Bold.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/js/lib/_draco/draco_wasm_wrapper.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/js/lib/_draco/draco_decoder.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/_scenelayout/uv.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/js/lib/basis_transcoder.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/js/lib/basis_transcoder.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/desert_bedrock_normal.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/corsica_beach-specular-RGBM.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/lab.gif HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/damaged_road_basecolor.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/corsica_beach-diffuse-RGBM.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/lut.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/damaged_road_mro.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/_scenelayout/mask.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/ui/at-labrds.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/js/lib/qrious.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/lab.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/work/splines_anim4-SPLINES.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/work/cube.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/tree_room/sand.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/spine/spine.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/tree_room/walls.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/logo/AT_logo.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/home/jellyfish.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/tree_room/rock_L.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/tree_room/cables.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/tree_room/structure.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/tree_room/mask.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/hexgrid/hexagon_gem.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/tree_room/pillars.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/tree_room/rocky_soil.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/particles/flower_spine-1024.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/particles/forest-1024.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/video/reel-frame.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/damaged_road_normal.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/cracked_ice_basecolor.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/work/chainlink.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/work/env1.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/particle/matcap3.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/geometry/tree_room/rock_R.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/woodplanks_normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/_scenelayout/empty_mro.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/room/matcap-test.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/tree_room/WALLS_CEILING___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/tree_room/SAND___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/tree_room/WALLS_CEILING___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/tree_room/WALLS_CEILING___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/tree_room/SAND___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/alien_cracked_2_basecolor.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/_scenelayout/black.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/cliffs_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/tree_room/SAND___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/tree_room/waternormals.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/jungle_soil_normal.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/pbr/alien_cracked_2_normal.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/tree_room/ROCK_L___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:17] "GET /assets/images/tree_room/ROCK_L___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/_scenelayout/empty_normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/PILLARS___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/PILLARS___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/PILLARS___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/pbr/black.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/CABLES___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/CABLES___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/ROCKY_SOIL___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/ROCKY_SOIL___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/ROCKY_SOIL___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/STRUCTURE___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/STRUCTURE___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/ROCK_L___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/CABLES___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/STRUCTURE___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/ROCK_R___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/ROCK_R___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/images/tree_room/ROCK_R___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:18] "GET /assets/fonts/NBArchitektStd-Bold-export/NBArchitektStd-Bold.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:38] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 51144)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [16/Nov/2026 02:31:47] "GET /assets/js/app.1780406240914.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 02:31:47] "GET /assets/js/modules.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 02:31:47] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/js/app.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/meta/manifest.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/js/hydra/hydra-thread.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/js/app.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/js/hydra/hydra-thread.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/data/uil.1780406240914.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/js/app.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/shaders/compiled.vs HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/js/modules.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/meta/favicon-32x32.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/fonts/NBArchitektStd-Regular-export/NBArchitektStd-Regular.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:05] "GET /assets/js/modules.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/damaged_road_normal.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/fonts/NBArchitektStd-Regular.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/fonts/NBArchitektStd-Regular.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/ui/globe.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/fonts/NBArchitektStd-Light.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/ui/arrow.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/ui/star.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/fonts/NBArchitektStd-Light.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/fonts/NBArchitektStd-Bold.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/ui/in.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/ui/tw.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/fonts/NBArchitektStd-Bold.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/ui/ig.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/js/lib/_draco/draco_wasm_wrapper.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/_scenelayout/uv.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/js/lib/_draco/draco_decoder.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/js/lib/basis_transcoder.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/js/lib/basis_transcoder.wasm HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/desert_bedrock_normal.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/damaged_road_basecolor.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/damaged_road_mro.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/corsica_beach-specular-RGBM.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/lab.gif HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/corsica_beach-diffuse-RGBM.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/_scenelayout/mask.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/lut.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/ui/at-labrds.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/js/lib/qrious.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/lab.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/work/splines_anim4-SPLINES.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/tree_room/structure.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/work/cube.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/tree_room/sand.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/home/jellyfish.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/spine/spine.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/logo/AT_logo.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/tree_room/walls.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/tree_room/cables.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/particles/flower_spine-1024.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/tree_room/rocky_soil.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/tree_room/rock_L.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/tree_room/mask.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/tree_room/pillars.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/hexgrid/hexagon_gem.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/work/chainlink.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/work/env1.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/particles/forest-1024.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/woodplanks_normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/cracked_ice_basecolor.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/room/matcap-test.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/particle/matcap3.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/geometry/tree_room/rock_R.bin HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/_scenelayout/empty_mro.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/damaged_road_normal.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/video/reel-frame.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/_scenelayout/black.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/waternormals.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/SAND___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/SAND___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/SAND___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/STRUCTURE___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/STRUCTURE___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/STRUCTURE___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/WALLS_CEILING___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/WALLS_CEILING___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/alien_cracked_2_basecolor.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/cliffs_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/jungle_soil_normal.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/WALLS_CEILING___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/alien_cracked_2_normal.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/_scenelayout/empty_normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/ROCK_L___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/ROCK_L___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/CABLES___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/CABLES___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/CABLES___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/pbr/black.png HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/ROCK_L___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/ROCKY_SOIL___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/ROCKY_SOIL___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/PILLARS___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/PILLARS___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/ROCKY_SOIL___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/PILLARS___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/ROCK_R___CyclesBake_COMBINED.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/ROCK_R___PBR_AT_MRO.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:07] "GET /assets/images/tree_room/ROCK_R___PBR_Normal.ktx2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:12] "GET /assets/fonts/NBArchitektStd-Bold-export/NBArchitektStd-Bold.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:32] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:08:32] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 56451)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 54] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 56463)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------127.0.0.1 - - [16/Nov/2026 03:08:33] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 56467)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [16/Nov/2026 03:10:08] "GET /assets/js/modules.1780406240914.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:11:37] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:11:39] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 57789)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 54] Connection reset by peer
+----------------------------------------
+127.0.0.1 - - [16/Nov/2026 03:11:39] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:11:59] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 57969)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [16/Nov/2026 03:12:46] "GET /assets/js/app.1780406240914.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:46] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /www.googletagmanager.com/gtag/js/index__q1bqhcnb.html HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/js/app.1780406240914.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/meta/manifest.json HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/js/hydra/hydra-thread.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/data/uil.1780406240914.json HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/shaders/compiled.vs HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/js/modules.1780406240914.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/meta/favicon-32x32.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/js/app.1780406240914.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/js/hydra/hydra-thread.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/fonts/NBArchitektStd-Regular-export/NBArchitektStd-Regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:12:59] "GET /assets/js/modules.1780406240914.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/damaged_road_normal.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/fonts/NBArchitektStd-Regular.json HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/fonts/NBArchitektStd-Regular.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/fonts/NBArchitektStd-Light.json HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/ui/globe.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/ui/star.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/ui/tw.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/fonts/NBArchitektStd-Bold.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/ui/arrow.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/ui/in.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/fonts/NBArchitektStd-Light.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/ui/ig.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/fonts/NBArchitektStd-Bold.json HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/js/lib/_draco/draco_wasm_wrapper.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/_scenelayout/uv.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/js/lib/_draco/draco_decoder.wasm HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/js/lib/basis_transcoder.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/desert_bedrock_normal.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/js/lib/basis_transcoder.wasm HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/damaged_road_mro.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/damaged_road_basecolor.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/lab.gif HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/corsica_beach-specular-RGBM.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/lut.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/corsica_beach-diffuse-RGBM.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/_scenelayout/mask.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/ui/at-labrds.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/js/lib/qrious.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/lab.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/work/splines_anim4-SPLINES.json HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/work/chainlink.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/tree_room/structure.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/work/cube.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/tree_room/sand.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/tree_room/walls.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/home/jellyfish.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/logo/AT_logo.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/spine/spine.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/tree_room/rock_R.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/particles/flower_spine-1024.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/tree_room/mask.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/tree_room/cables.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/hexgrid/hexagon_gem.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/tree_room/pillars.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/tree_room/rock_L.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/tree_room/rocky_soil.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/geometry/particles/forest-1024.bin HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/cracked_ice_basecolor.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/particle/matcap3.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/woodplanks_normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/_scenelayout/empty_mro.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/room/matcap-test.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/work/env1.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/video/reel-frame.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/_scenelayout/empty_normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/SAND___PBR_Normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/SAND___CyclesBake_COMBINED.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/SAND___PBR_AT_MRO.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/waternormals.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/_scenelayout/black.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/ROCK_R___PBR_Normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/WALLS_CEILING___PBR_Normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/ROCK_R___CyclesBake_COMBINED.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/WALLS_CEILING___CyclesBake_COMBINED.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/WALLS_CEILING___PBR_AT_MRO.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/jungle_soil_normal.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/ROCK_R___PBR_AT_MRO.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/PILLARS___PBR_Normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/PILLARS___CyclesBake_COMBINED.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/cliffs_MRO.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/PILLARS___PBR_AT_MRO.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/ROCK_L___CyclesBake_COMBINED.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/alien_cracked_2_basecolor.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/damaged_road_normal.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/CABLES___PBR_Normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/ROCK_L___PBR_Normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/ROCKY_SOIL___PBR_Normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/ROCKY_SOIL___CyclesBake_COMBINED.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/alien_cracked_2_normal.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/CABLES___PBR_AT_MRO.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/ROCKY_SOIL___PBR_AT_MRO.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/pbr/black.png HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/STRUCTURE___PBR_AT_MRO.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/ROCK_L___PBR_AT_MRO.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:00] "GET /assets/images/tree_room/STRUCTURE___CyclesBake_COMBINED.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:01] "GET /assets/images/tree_room/CABLES___CyclesBake_COMBINED.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:01] "GET /assets/images/tree_room/STRUCTURE___PBR_Normal.ktx2 HTTP/1.1" 304 -
+127.0.0.1 - - [16/Nov/2026 03:13:01] "GET /assets/fonts/NBArchitektStd-Bold-export/NBArchitektStd-Bold.woff2 HTTP/1.1" 304 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 58517)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+127.0.0.1 - - [16/Nov/2026 03:13:10] "GET /assets/video/reel.mp4 HTTP/1.1" 200 -
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 58606)
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
